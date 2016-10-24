@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dagger.iml" filepath="$PROJECT_DIR$/.idea/modules/dagger.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dagger_main.iml" filepath="$PROJECT_DIR$/.idea/modules/dagger_main.iml" group="dagger" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dagger_test.iml" filepath="$PROJECT_DIR$/.idea/modules/dagger_test.iml" group="dagger" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Dagger2Playground.iml" filepath="$PROJECT_DIR$/.idea/modules/Dagger2Playground.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Dagger2Playground_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Dagger2Playground_main.iml" group="Dagger2Playground" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Dagger2Playground_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Dagger2Playground_test.iml" group="Dagger2Playground" />
     </modules>
   </component>
 </project>

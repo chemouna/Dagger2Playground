@@ -19,8 +19,8 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="dagger_main" target="1.8" />
-      <module name="dagger_test" target="1.8" />
+      <module name="Dagger2Playground_main" target="1.8" />
+      <module name="Dagger2Playground_test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
