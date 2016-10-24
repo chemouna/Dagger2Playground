@@ -1,6 +1,6 @@
 package com.mounacheikhna.app.dagger.components;
 
-import com.mounacheikhna.app.app.Application;
+import com.mounacheikhna.app.Application;
 
 public interface ApplicationComponentInjects {
 

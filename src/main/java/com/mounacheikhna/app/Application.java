@@ -1,4 +1,4 @@
-package com.mounacheikhna.app.app;
+package com.mounacheikhna.app;
 
 import com.mounacheikhna.app.dagger.ComponentFactory;
 import com.mounacheikhna.app.dagger.components.ApplicationComponent;

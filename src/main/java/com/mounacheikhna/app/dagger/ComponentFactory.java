@@ -1,6 +1,6 @@
 package com.mounacheikhna.app.dagger;
 
-import com.mounacheikhna.app.app.Application;
+import com.mounacheikhna.app.Application;
 import com.mounacheikhna.app.dagger.components.ApplicationComponent;
 import com.babic.app.dagger.components.DaggerApplicationComponent;
 import com.mounacheikhna.app.dagger.modules.ApplicationModule;
